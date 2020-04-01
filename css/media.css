@@ -1,0 +1,741 @@
+@media (max-width: 575.98px) {
+    h4{
+        font-size: 12px;
+    }
+    .header-content h1 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+    .header-content p {
+        margin-top: 26px;
+        font-size: 15px;
+    }
+    .header-content button {
+        margin-top: 20px;
+        margin-right: 5px;
+        font-size: 11px;
+    }
+    .banner-mobile {
+        display: none;
+    }
+    .header-content h4 {
+        margin-top: 40px;
+    }
+    .header-part {
+        height: 432px;
+    }
+    .featurs {
+        margin-top: 50px;
+    }
+    .featurs h1 {
+        margin-top: 10px;
+        font-size: 18px;
+    }
+    .featurs hr {
+        width: 20px;
+        height: 1px;
+    }
+    .feture-content {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .custom-i {
+        font-size: 15px;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    .feture-content h2 {
+        margin-bottom: 10px;
+        font-size: 16px;
+    }
+    .feture-content p {
+        font-size: 12px;
+    }.device-part {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .device-part .img-one img {
+        display: none;
+    }
+    .device-part .img-tow {
+        display: none;
+    }
+    .device-content h4 {
+        font-size: 12px;
+    }
+    .device-content h1 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .device-content p {
+        font-size: 12px;
+    }
+    .device-content hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .device-content ul li a i {
+        color: #008ed6;
+        padding-right: 7px;
+        font-size: 12px;
+    }
+    .device-content ul li {
+        margin-top: 0px;
+    }
+    .device-content ul li a {
+        font-size: 12px;
+    }
+    .customize-part {
+        background-size: 50%;
+        min-height: 300px;
+    }
+    .customize-content {
+        min-height: 308px;
+        align-items: center;
+    }
+    .customize-content h4 {
+        margin-top: 30px;
+    }
+    .customize-content h1 {
+        font-size: 14px;
+    }
+    .customize-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 2px;
+        margin-bottom: 6px;
+    }
+    .customize-content p {
+        line-height: 1.4;
+        font-size: 11px;
+    }
+    .pricing_h hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 4px;
+    }
+    .pricing_and_plan p {
+        font-size: 11px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_lcontent h5 {
+        font-size: 10px;
+    }
+    .pricing_lcontent h6 {
+        font-size: 12px;
+    }
+    .pricing {
+        background-size: 260%;
+        min-height: 380px;
+    }
+    .download-part h2 {
+        font-size: 10px;
+    }
+    .download-part button {
+        padding: 1px 4px;
+        font-size: 8px;
+    }
+    .price-part h1 {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .price-part hr {
+        width: 21px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 1px;
+    }
+    .custom-free {
+        font-size: 15px;
+    }
+    ..custom-span {
+        font-size: 40px;
+    }
+    .price-icon {
+        top: 20px;
+        left: 57px;
+        font-size: 14px;
+    }
+    .price-icon-two {
+        position: absolute;
+        top: 17px;
+        left: 52px;
+        font-size: 15px;
+    }
+    .custom-span {
+        font-size: 30px;
+        font-weight: 600;
+    }
+    .custom-card-body p {
+        font-size: 13px;
+    }
+    .custom-card-body button {
+        font-size: 10px;
+        padding: 5px 10px;
+        margin-bottom: -2px;
+    }
+    .price-content {
+        margin: 15px 0;
+    }
+    .price-part {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .price-header h1 {
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .contuct-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 10px;
+    }
+    .contuct-part ul li a i {
+        font-size: 18px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .contuct-part ul li a {
+        font-size: 12px;
+    }
+    .contuct-part ul li {
+        margin-bottom: -6px;
+    }
+    .contuct-part {
+        min-height: 400px;
+        padding-top: 40px;
+    }
+    footer ul li a i {
+        padding: 10px;
+        font-size: 16px;
+    }
+    footer ul li a {
+        color: #525254;
+        font-size: 13px;
+    }
+    .custom-btn {
+        font-size: 9px;
+        padding: 6px 10px;
+    }
+    .contact-form-area form input, .contact-form-area form textarea {
+        font-size: 11px;
+    }
+    .for-position{
+        position: absolute;
+        bottom: -3280px;
+        left: 0;
+    }
+    
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    h4{
+        font-size: 12px;
+    }
+    .header-content h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .header-content p {
+        margin-top: 26px;
+        font-size: 15px;
+    }
+    .header-content button {
+        margin-top: 20px;
+        margin-right: 5px;
+        font-size: 11px;
+    }
+    .banner-mobile {
+        display: none;
+    }
+    .header-content h4 {
+        margin-top: 40px;
+    }
+    .header-part {
+        height: 432px;
+    }
+    .featurs {
+        margin-top: 50px;
+    }
+    .featurs h1 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .featurs hr {
+        width: 20px;
+        height: 1px;
+    }
+    .feture-content {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .custom-i {
+        font-size: 20px;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    .feture-content h2 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .feture-content p {
+        font-size: 14px;
+    }.device-part {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .device-part .img-one img {
+        display: none;
+    }
+    .device-part .img-tow {
+        display: none;
+    }
+    .device-content h4 {
+        font-size: 12px;
+    }
+    .device-content h1 {
+        margin-top: 12px;
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    .device-content p {
+        font-size: 14px;
+    }
+    .device-content hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .device-content ul li a i {
+        color: #008ed6;
+        padding-right: 7px;
+        font-size: 14px;
+    }
+    .device-content ul li {
+        margin-top: 5px;
+    }
+    .device-content ul li a {
+        font-size: 14px;
+    }
+    .customize-part {
+        background-size: 50%;
+        min-height: 300px;
+    }
+    .customize-content {
+        min-height: 340px;
+        align-items: center;
+    }
+    .customize-content h4 {
+        margin-top: 30px;
+    }
+    .customize-content h1 {
+        font-size: 20px;
+    }
+    .customize-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 2px;
+        margin-bottom: 6px;
+    }
+    .customize-content p {
+        line-height: 1.4;
+        font-size: 14px;
+    }
+    .pricing_h hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 4px;
+    }
+    .pricing_and_plan p {
+        font-size: 11px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_lcontent h5 {
+        font-size: 10px;
+    }
+    .pricing_lcontent h6 {
+        font-size: 12px;
+    }
+    .pricing {
+        background-size: 260%;
+        min-height: 380px;
+    }
+    .download-part h2 {
+        font-size: 14px;
+    }
+    .download-part button {
+        padding: 5px 8px;
+        font-size: 9px;
+    }
+    .price-part h1 {
+        margin-top: 20px;
+        font-size: 22px;
+    }
+    .price-part hr {
+        width: 21px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 1px;
+    }
+    .custom-free {
+        font-size: 20px;
+    }
+    .custom-span {
+        font-size: 40px;
+    }
+    .price-icon {
+        top: 25px;
+        left: 100px;
+        font-size: 14px;
+    }
+    .price-icon-two {
+        position: absolute;
+        top: 25px;
+        left: 85px;
+        font-size: 15px;
+    }
+    .custom-card-body p {
+        font-size: 15px;
+    }
+    .custom-card-body button {
+        font-size: 11px;
+        padding: 5px 10px;
+        margin-bottom: -2px;
+    }
+    .price-content {
+        margin: 15px 0;
+    }
+    .price-part {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .price-header h1 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .contact-alain{
+        justify-content: center;
+    }
+    .contuct-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 10px;
+    }
+    .contuct-part ul li a i {
+        font-size: 20px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .contuct-part ul li a {
+        font-size: 14px;
+    }
+    .contuct-part ul li {
+        margin-bottom: -6px;
+    }
+    .contuct-part {
+        min-height: 400px;
+        padding-top: 40px;
+    }
+    footer ul li a i {
+        padding: 10px;
+        font-size: 16px;
+    }
+    footer ul li a {
+        color: #525254;
+        font-size: 13px;
+    }
+    .custom-btn {
+        font-size: 9px;
+        padding: 6px 10px;
+    }
+    .contact-form-area form input, .contact-form-area form textarea {
+        font-size: 10px;
+    }
+    .for-position{
+        position: absolute;
+        bottom: -3220px;
+        left: 190px;
+    }
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    h4{
+        font-size: 12px;
+    }
+    .header-part {
+        height: 568px;
+    }
+    .header-content {
+    padding-top: 45px;
+    }
+    .header-content h1 {
+        font-size: 25px;
+        margin-top: 20px;
+    }
+    .header-content p {
+        margin-top: 26px;
+        font-size: 15px;
+    }
+    .header-content button {
+        margin-top: 20px;
+        margin-right: 5px;
+        font-size: 11px;
+    }
+    .banner-mobile {
+        width: 20px;
+    }
+    .banner-mobile img{
+        width: 322px;
+        padding-top: 16px;
+    }
+    .header-content h4 {
+        margin-top: 40px;
+    }
+    .header-part {
+        min-height: 503px;
+    }
+    .featurs {
+        margin-top: 50px;
+    }
+    .featurs h1 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .featurs hr {
+        width: 20px;
+        height: 1px;
+    }
+    .feture-content {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+    .custom-i {
+        font-size: 20px;
+        padding: 10px;
+        margin-bottom: 15px;
+    }
+    .feture-content h2 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+    .feture-content p {
+        font-size: 14px;
+    }.device-part {
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .device-part .img-one img {
+        width: 230px;
+    }
+    .device-part .img-tow {
+        display: none;
+    }
+    .device-content h4 {
+        font-size: 12px;
+    }
+    .device-content h1 {
+        margin-top: 12px;
+        margin-bottom: 10px;
+        font-size: 22px;
+    }
+    .device-content p {
+        font-size: 14px;
+    }
+    .device-content hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .device-content ul li a i {
+        color: #008ed6;
+        padding-right: 7px;
+        font-size: 14px;
+    }
+    .device-content ul li {
+        margin-top: 5px;
+    }
+    .device-content ul li a {
+        font-size: 14px;
+    }
+    .customize-part {
+        background-size: 50%;
+        min-height: 300px;
+    }
+    .customize-content {
+        min-height: 340px;
+        align-items: center;
+    }
+    .customize-content h4 {
+        margin-top: 30px;
+    }
+    .customize-content h1 {
+        font-size: 20px;
+    }
+    .customize-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 2px;
+        margin-bottom: 6px;
+    }
+    .customize-content p {
+        line-height: 1.4;
+        font-size: 14px;
+    }
+    .pricing_h hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 4px;
+    }
+    .pricing_and_plan p {
+        font-size: 11px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_h h1 {
+        font-size: 15px;
+    }
+    .pricing_lcontent h5 {
+        font-size: 10px;
+    }
+    .pricing_lcontent h6 {
+        font-size: 12px;
+    }
+    .pricing {
+        background-size: 260%;
+        min-height: 380px;
+    }
+    .download-part h2 {
+        font-size: 14px;
+    }
+    .download-part button {
+        padding: 5px 8px;
+        font-size: 9px;
+    }
+    .price-part h1 {
+        margin-top: 20px;
+        font-size: 22px;
+    }
+    .price-part hr {
+        width: 21px;
+        height: 1px;
+        margin: 1px;
+        margin-top: 1px;
+    }
+    .custom-free {
+        font-size: 17px;
+    }
+    .custom-span {
+        font-size: 40px;
+    }
+    .price-icon {
+        top: 25px;
+        left: 55px;
+        font-size: 14px;
+    }
+    .price-icon-two {
+        position: absolute;
+        top: 25px;
+        left: 40px;
+        font-size: 15px;
+    }
+    .custom-card-body p {
+        font-size: 14px;
+    }
+    .custom-card-body button {
+        font-size: 11px;
+        padding: 5px 10px;
+        margin-bottom: -2px;
+    }
+    .price-content {
+        margin: 15px 0;
+    }
+    .price-part {
+        margin-top: 40px;
+        margin-bottom: 40px;
+    }
+    .price-header h1 {
+        margin-top: 10px;
+        font-size: 22px;
+    }
+    .contact-alain{
+        justify-content: center;
+    }
+    .contuct-part hr {
+        width: 20px;
+        height: 1px;
+        margin: 2px;
+        margin-top: 10px;
+    }
+    .contuct-part ul li a i {
+        font-size: 20px;
+        margin-top: 15px;
+        margin-bottom: 10px;
+    }
+    .contuct-part ul li a {
+        font-size: 14px;
+    }
+    .contuct-part ul li {
+        margin-bottom: -6px;
+    }
+    .contuct-part {
+        min-height: 400px;
+        padding-top: 40px;
+    }
+    footer ul li a i {
+        padding: 10px;
+        font-size: 16px;
+    }
+    footer ul li a {
+        color: #525254;
+        font-size: 13px;
+    }
+    .custom-btn {
+        font-size: 9px;
+        padding: 6px 10px;
+    }
+    .contact-form-area form input, .contact-form-area form textarea {
+        font-size: 10px;
+    }
+    .for-position{
+        position: absolute;
+        bottom: -2820px;
+        left: 0;
+    }
+}
+
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
